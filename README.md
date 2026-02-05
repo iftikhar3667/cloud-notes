@@ -3,7 +3,7 @@
 This repo is my daily learning log for Linux, Networking, AWS, Git and CloudOps basics.
 
 ## Goal (by Sep 2026)
-- Become job-ready for Cloud Support / CloudOps Engineer roles in Germany
+- Become job-ready for Cloud Support / CloudOps / DevOps Engineer roles in Germany
 - Build 2 portfolio projects (separate repos) with runbooks and clean documentation
 
 ## Repo structure
